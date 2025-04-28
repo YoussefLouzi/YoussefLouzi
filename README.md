@@ -1,113 +1,113 @@
-# 👋 Hello World! I'm Youssef Louzi
+<h1 align="center">👋 Hi there, I'm Youssef Louzi!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFDD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Software+Engineer;Java+%7C+Spring+%7C+React;Always+Learning+%7C+Always+Building+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
+---
 
 ## 🧑‍💻 About Me
-I'm **Youssef**, a passionate **Full-Stack Web Developer** and **Computer Science Student** from Morocco 🇲🇦.  
-I love crafting **dynamic**, **user-friendly**, and **innovative** web experiences.  
 
-🔭 **Current Focus:**  
-- Building robust and elegant web applications  
-- Constantly learning and staying ahead in technology
-
-💡 **Fun Fact:**  
-I am certified by **Meta**, **Google**, and more — because mastering my craft is non-negotiable! 🚀
+🎯 **Highly motivated** and **detail-oriented** software engineering student.  
+💻 **Passionate** about building **scalable**, **beautiful**, and **user-friendly** applications.  
+🚀 Committed to **continuous learning** and **innovating** with emerging technologies.  
+🏆 **Summer Internship Ready** — eager to contribute real value!
 
 ---
 
-## 🌐 Connect with Me
+## 🌍 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousseflouzi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-louzi-091244295)
+<p align="center">
+  <a href="https://github.com/yousseflouzi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://linkedin.com/in/youssef-louzi-091244295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 🧑‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cpp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases:**  
+### 🖥️ Frameworks
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Swing](https://img.shields.io/badge/Swing-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![JEE](https://img.shields.io/badge/JEE-00599C?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Frameworks:**  
+### ☁️ Cloud
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🛠️ Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
-## 📚 Certifications
-- 🥇 **Meta Front-End Developer** *(Coursera)*
-- 🥈 **Google IT Support** *(Coursera)*
-- 🥉 **Google Project Management** *(Coursera)*
+## 📚 My Journey & Projects
 
----
+- 🔥 **HealthTrack** — Java & Swing Patient Management System  
+  ➔ PostgreSQL-backed, fully scalable OOP application.
 
-## 💻 My Featured Projects
+- 🎮 **Computer Game TAQUIN** — Game Development  
+  ➔ C + SDL to create a dynamic, interactive sliding puzzle.
 
-- 🎮 **Taquin Game**  
-  Developed using **C** and **SDL**, showcasing clean game logic and UI interaction.
-
-- 🧠 **Knowledge Base Platform**  
-  Integrated **Notion**, **Stack AI**, and **Botpress** to create an intelligent, centralized platform for internships.
-
-- 🖥️ **Printing Management Web App**  
-  Designed and developed a fully functional **PHP/MySQL** application for reprography operations.
+- 🖥️ **Web Application for Groupe ARKEOS**  
+  ➔ Dynamic printing management system in PHP & MySQL with dashboard and tracking system.
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousseflouzi&show_icons=true&theme=github_dark&hide_border=false" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseflouzi&layout=compact&theme=github_dark&hide_border=false" width="400px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousseflouzi&show_icons=true&theme=tokyonight&hide_border=false" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseflouzi&theme=tokyonight&hide_border=false" width="45%" />
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousseflouzi&theme=github_dark&no-frame=true&row=2&column=4" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yousseflouzi&theme=tokyonight&no-frame=true&row=2&column=3" />
+</p>
 
 ---
 
-## ✍️ Dev Quote
+## ✍️ Favorite Dev Quote
 
-> **"First, solve the problem. Then, write the code."** — *John Johnson*
-
----
-
-## 😂 Fun Zone
-
-![Meme](https://random-memer.herokuapp.com/)
+> "Dream big. Start small. But most of all, start." — Simon Sinek
 
 ---
 
-## 🦖 Mini Break: Play Dino!
+## 🎮 Dino Break
 
-![dino](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-
----
-
-# 🚀 Life Motto
-
-> **"Stay hungry, stay foolish."** — *Steve Jobs*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="700" />
+</p>
 
 ---
 
-# 🌟 Final Words
-
-> *"Code with passion, build with purpose, grow without limits."*  
->  
-> See you at the top. 🏔️
+<h2 align="center">🚀 Let's Build the Future Together!</h2>
 
 ---
 
