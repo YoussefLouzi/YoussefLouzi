@@ -1,36 +1,28 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRmZjBkNzQ4ZGY4YzE2YzE2YzE2YzE2YzE2YzE2YzE2YzE2YzE2YzE2&t=1&s=40&c=1" width="100%" height="200" alt="Starry Night Sky"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=✨+Welcome+to+My+Universe+✨;👋+I'm+Youssef+Louzi;🌟+Full-Stack+Developer+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile;I'm+Youssef+Louzi;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=0&animation=twinkling"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFDD&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Innovator;Java+%7C+Spring+%7C+React+Expert;Building+Tomorrow's+Solutions;Always+Learning+%7C+Always+Creating+🚀" alt="Typing SVG" />
-</p>
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> About Me
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **About Me**
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🎯 **Visionary** software engineering student with divine coding skills  
-💻 **Architect** of scalable, beautiful, and user-centric applications  
-🚀 **Pioneer** in emerging technologies and innovative solutions  
-🏆 **Ready** to make real impact through summer internships  
-⚡ **Passionate** about turning ideas into digital reality  
+🎯 Software engineering student passionate about coding  
+💻 Building scalable and user-friendly applications  
+🚀 Exploring new technologies and innovative solutions  
+🏆 Looking for summer internship opportunities  
+⚡ Turning ideas into reality through code  
 
 <br clear="right"/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"> **Connect With Me**
+## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="25"> Connect With Me
 
 <div align="center">
   <a href="https://github.com/yousseflouzi">
@@ -41,52 +33,40 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f2c5c2e8d8a.gif" width="25"> **Divine Tech Arsenal**
+## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b97c-3f2c5c2e8d8a.gif" width="25"> Tech Stack
 
 <div align="center">
 
-### 🧑💻 **Programming Languages**
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,php,python&theme=dark" />
 
-### 🖥️ **Frameworks & Libraries**
+### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=spring,hibernate,react,nodejs&theme=dark" />
 
-### 🗄️ **Databases**
+### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" />
 
-### ☁️ **Cloud & DevOps**
+### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,git,linux&theme=dark" />
 
-### 🛠️ **Development Tools**
+### Development Tools
 <img src="https://skillicons.dev/icons?i=idea,maven,gradle&theme=dark" />
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284113-d0b2c9e5-3d7c-4c8a-9b7e-8c8b8c8b8c8b.gif" width="25"> **Legendary Projects**
+## <img src="https://user-images.githubusercontent.com/74038190/212284113-d0b2c9e5-3d7c-4c8a-9b7e-8c8b8c8b8c8b.gif" width="25"> Featured Projects
 
 <div align="center">
 
-| 🔥 **HealthTrack** | 🎮 **TAQUIN Game** | 🖥️ **ARKEOS Web App** |
+| Project | Description | Tech Stack |
 |:---:|:---:|:---:|
-| Java & Swing Patient System | C + SDL Interactive Puzzle | PHP & MySQL Dashboard |
-| PostgreSQL Backend | Dynamic Game Engine | Tracking & Management |
-| Scalable OOP Architecture | Real-time Interactions | Full-Stack Solution |
+| **HealthTrack** | Patient management system | Java, Swing, PostgreSQL |
+| **TAQUIN Game** | Interactive puzzle game | C, SDL |
+| **ARKEOS Web App** | Management dashboard | PHP, MySQL |
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99c676e5f9a5.gif" width="400">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c3d-9f9b-8f9b8f9b8f9b.gif" width="25"> **GitHub Constellation**
+## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c3d-9f9b-8f9b8f9b8f9b.gif" width="25"> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yousseflouzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00FFDD&text_color=FFFFFF" width="48%" />
@@ -97,40 +77,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseflouzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" width="50%" />
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284107-fc9e2431-0e04-4b9d-89d8-62098dc4c2d8.gif" width="25"> **Hall of Fame**
+## <img src="https://user-images.githubusercontent.com/74038190/212284107-fc9e2431-0e04-4b9d-89d8-62098dc4c2d8.gif" width="25"> Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yousseflouzi&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284152-8b5e7e7e-7e7e-7e7e-7e7e-7e7e7e7e7e7e.gif" width="400">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284103-e50ceae2-de86-4dd6-b97c-3f2c5c2e8d8a.gif" width="25"> **Words of Wisdom**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Dream%20big.%20Start%20small.%20But%20most%20of%20all,%20start.&author=Simon%20Sinek" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284125-5c6e8e5e-7e7e-7e7e-7e7e-7e7e7e7e7e7e.gif" width="25"> **Take a Divine Break**
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="700" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 <h2 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
-  <br>
-  🚀 **Let's Build the Future Together!** 🚀
-  <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50">
+  🚀 Let's Build Something Amazing Together! 🚀
 </h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </div>
