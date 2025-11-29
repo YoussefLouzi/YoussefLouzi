@@ -54,28 +54,6 @@
 
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284113-d0b2c9e5-3d7c-4c8a-9b7e-8c8b8c8b8c8b.gif" width="25"> Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:---:|:---:|:---:|
-| **HealthTrack** | Patient management system | Java, Swing, PostgreSQL |
-| **TAQUIN Game** | Interactive puzzle game | C, SDL |
-| **ARKEOS Web App** | Management dashboard | PHP, MySQL |
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4c3d-9f9b-8f9b8f9b8f9b.gif" width="25"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousseflouzi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=00FFDD&text_color=FFFFFF" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousseflouzi&theme=tokyonight&hide_border=true&background=0D1117&stroke=FFD700&ring=00FFDD&fire=FFD700&currStreakLabel=00FFDD" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseflouzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" width="50%" />
-</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284107-fc9e2431-0e04-4b9d-89d8-62098dc4c2d8.gif" width="25"> Achievements
 
